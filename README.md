@@ -2,6 +2,7 @@
 This is a knowledge assissted tool to help uncover bank level mapping as well as internal bank organization
 
 DESCRIPTION:
+
 There are 2 python scripts for determining bank level mapping(full_line_analysis) and physical locations(grid_analysis) of banks in a chip. The result for each analysis will be saved in the same directory as where the user is running the command.
 
 
