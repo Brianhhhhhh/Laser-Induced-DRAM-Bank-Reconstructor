@@ -1,0 +1,66 @@
+---=== SPD EEPROM Information ===---
+EEPROM CRC of bytes 0-116                        OK (0x69E7)
+# of bytes written to SDRAM EEPROM               176
+Total number of bytes in EEPROM                  256
+Fundamental Memory type                          DDR3 SDRAM
+SPD Revision                                     1.1
+Module Type                                      SO-DIMM
+
+---=== Memory Characteristics ===---
+Maximum module speed                             1600 MT/s (PC3-12800)
+Size                                             8192 MB
+Banks x Rows x Columns x Bits                    8 x 16 x 10 x 64
+Ranks                                            2
+SDRAM Device Width                               8 bits
+Primary Bus Width                                64 bits
+tCL-tRCD-tRP-tRAS                                11-11-11-28
+Supported CAS Latencies (tCL)                    11T, 10T, 9T, 8T, 7T, 6T, 5T
+
+---=== Timings at Standard Speeds ===---
+tCL-tRCD-tRP-tRAS as DDR3-1600                   11-11-11-28
+tCL-tRCD-tRP-tRAS as DDR3-1333                   9-9-9-24
+tCL-tRCD-tRP-tRAS as DDR3-1066                   7-7-7-19
+tCL-tRCD-tRP-tRAS as DDR3-800                    6-6-6-14
+
+---=== Timing Parameters ===---
+Minimum Cycle Time (tCK)                         1.250 ns
+Minimum CAS Latency Time (tAA)                   13.125 ns
+Minimum Write Recovery time (tWR)                15.000 ns
+Minimum RAS# to CAS# Delay (tRCD)                13.125 ns
+Minimum Row Active to Row Active Delay (tRRD)    6.000 ns
+Minimum Row Precharge Delay (tRP)                13.125 ns
+Minimum Active to Precharge Delay (tRAS)         35.000 ns
+Minimum Active to Auto-Refresh Delay (tRC)       48.125 ns
+Minimum Recovery Delay (tRFC)                    260.000 ns
+Minimum Write to Read CMD Delay (tWTR)           7.500 ns
+Minimum Read to Pre-charge CMD Delay (tRTP)      7.500 ns
+Minimum Four Activate Window Delay (tFAW)        30.000 ns
+
+---=== Optional Features ===---
+Operable voltages                                1.5V, 1.35V 
+RZQ/6 supported?                                 Yes
+RZQ/7 supported?                                 Yes
+DLL-Off Mode supported?                          Yes
+Operating temperature range                      0-95 degrees C
+Refresh Rate in extended temp range              2X
+Auto Self-Refresh?                               Yes
+On-Die Thermal Sensor readout?                   No
+Partial Array Self-Refresh?                      No
+Module Thermal Sensor                            No
+SDRAM Device Type                                Standard Monolithic
+Maximum Activate Count (MAC)                     Untested
+
+---=== Physical Characteristics ===---
+Module Height                                    30 mm
+Module Thickness                                 2 mm front, 2 mm back
+Module Width                                     67.6 mm
+Module Reference Card                            F revision 0
+Rank 1 Mapping                                   Standard
+
+---=== Manufacturer Data ===---
+Module Manufacturer                              Samsung
+DRAM Manufacturer                                Invalid? (Invalid parity)
+Manufacturing Location Code                      0x02
+Manufacturing Date                               2024-W17
+Assembly Serial Number                           0x2012049C
+Part Number                                                   
